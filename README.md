@@ -12,6 +12,8 @@ We have gathered two key datasets to conduct a comprehensive analysis of custome
 
 *Combining the Datasets:*
 - By merging these two datasets on the common identifiers, Transaction_ID and Customer_ID, we can create a more comprehensive view of the retail sales process. This merged dataset allows us to link customer demographics and transaction details with specific product feedback and ratings.
+![image](https://github.com/user-attachments/assets/22eea621-930c-4656-bf7c-416115987c53)
+
 
 *Planned Analysis:*
 - We will explore the preferences for shipping methods and payment options among different customer segments, analyzing how these preferences correlate with transaction outcomes such as order status and feedback ratings.
